@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+       background-color:rgb(255, 255, 255);
+     }
+            .parent{
+                
+                height: 400px;
+                width:300px;
+                border: solid 2px black;
+            }
