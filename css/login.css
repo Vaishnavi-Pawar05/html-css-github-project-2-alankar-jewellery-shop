@@ -39,6 +39,7 @@ body
     margin-left: 400px;
     margin-top:40px;
     border: 2px solid#9c7135;
+   color:#03203A;;
 
     padding-bottom: 10px;
     display: flex;
@@ -75,10 +76,10 @@ body
    }
    .text1{
     text-align: center;
-    color:rgb(131, 34, 131);
+    color:#d8830c;
    }
  .text3{
-    color:rgb(87, 24, 87);
+   color: #03203A;
  }
 
  .p1{
