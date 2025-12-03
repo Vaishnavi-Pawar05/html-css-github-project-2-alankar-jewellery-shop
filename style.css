@@ -22,6 +22,10 @@ body {
 .left-section {
     display: flex;
     align-items: center;
+    margin-right: 20px;
+}
+.left-section img {
+    margin-right: 20px;  
 }
 
 .brand-section {
