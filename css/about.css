@@ -136,15 +136,11 @@ body {
     background-color: #8a5200;
     box-shadow: rgba(168, 98, 1, 0.4);
 }
-
-
-
 /* About Page Specific Styling */
 .about-container {
     display: flex;
     min-height: 80vh;
 }
-
 .about-image-section {
     flex: 1;
     overflow: hidden;
