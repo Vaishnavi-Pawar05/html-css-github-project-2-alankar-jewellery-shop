@@ -127,26 +127,23 @@ textarea {
 }
 
 .submit-btn {
-    padding: 10px 40px;
+    padding: 12px 40px;
     border-radius: 10px;
-    margin-top: 10px;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: none;
     background-color: #31443b;
-    text-align: center;
-    box-shadow: 2px 2px 2px rgb(23, 78, 23);
-
     color: white;
     font-size: 18px;
+    font-weight: 600;
     border: none;
-    transition: 0.3s ease;
     cursor: pointer;
-}
 
-.submit-btn:hover {
-    background-color: #192d1d;
-    box-shadow: rgba(41, 72, 59, 0.4);
+    /* हे दोन lines बटण center मध्ये आणतात */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 40px;
+    box-shadow: 2px 2px 2px rgb(23, 78, 23);
+    text-align: center;
 }
 
 .star-rating {
