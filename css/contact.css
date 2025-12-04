@@ -107,8 +107,77 @@
             color: #777;
             font-size: 14px;
         }
+        footer {
+    background-color: #a86201;  /* Golden brown – navbar ke jaisa */
+    color: white;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.footer-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 0 20px;
+}
+
+.footer-container a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+.footer-container a:hover {
+    text-decoration: underline;
+}
+
+.footer-about p {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.footer-contact p,
+.footer-social a {
+    font-size: 14px;
+}
+
+.social-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    padding-top: 10px;
+}
+
     * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+.view-more-btn {
+    background-color: #31443b;
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    text-decoration: none;
+}
+
+.view-more-btn:hover {
+    background-color: #192d1d;
+    box-shadow: rgba(41, 72, 59, 0.4);
