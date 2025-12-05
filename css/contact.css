@@ -175,8 +175,8 @@
         }
 
         button {
-            width: 130px;
-            padding: 8px 12px;
+            width: 180px;
+            padding: 14px;
             background: #31443b;
             color: white;
             border: none;
@@ -187,6 +187,17 @@
             font-weight: bold;
         }
 
+button.send-btn {
+    width: 130px;
+    padding: 8px 12px;
+    font-size: 15px;
+    border-radius: 8px;
+    background: #31443b;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
 
         
         .btn:hover {
