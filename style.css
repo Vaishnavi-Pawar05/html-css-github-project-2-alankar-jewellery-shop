@@ -289,7 +289,12 @@ footer {
     }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 900px)  {
+    .banner-logo {
+        width: 90%;
+        margin: auto;
+    }
+}
 
     .brand-logo {
         width: 70px;
@@ -308,9 +313,15 @@ footer {
     footer {
         text-align: center;
     }
-}
+
 
 @media (max-width: 600px) {
+
+    .banner-logo {
+        width: 100%;
+        height: auto;
+    }
+}
 
     .brand-logo {
         width: 60px;
@@ -326,7 +337,7 @@ footer {
         font-size: 18px;
     }
 
-}
+
 
 @media (max-width: 600px) {
     footer {
