@@ -92,3 +92,24 @@ HTML-CSS-Github-Project-2-Alankar-Jewellery-Shop/
    ├─ product-images/
    ├─ banner-images/
    └─ tea
+
+---
+
+## **Technologies Used**
+
+- HTML 
+- CSS
+- Responsive Web Design  
+
+---
+
+## ** Collaborators**
+
+- Sneha More
+- Vaishnavi Pawar
+- Darshana Deore
+- Tejal Shinde
+- Pratiksha Bagul
+- Nisha Tandale
+- Purva Khairnar
+- Pooja Telada    
